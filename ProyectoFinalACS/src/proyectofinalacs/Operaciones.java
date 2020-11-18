@@ -10,11 +10,17 @@ package proyectofinalacs;
  * @author LAPTOP PC
  */
 public class Operaciones {
+<<<<<<< HEAD
 
     public void suma() {
 
         int num1 = 0, num2 = 0, respuesta;
 
         respuesta = num1 + num2;
+=======
+    public void resta(){
+int num1 = 0, num2 = 0,respuesta;
+respuesta=num1-num2;
+>>>>>>> origin/feature2
     }
 }
